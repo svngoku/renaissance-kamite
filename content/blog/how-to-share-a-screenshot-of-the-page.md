@@ -1,16 +1,72 @@
 ---
-title: How to share a screenshot of the page
+title: Spiritualité Kongo
 date: 2019-09-07T05:42:28.441Z
-subtitle: If you have ever built an application which needs to take a screenshot of itself, then this blog tells you how to do the same for web.
-cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
-tags: 'technology, javascript'
+subtitle: Cette introduction à pour but de transmettre des connaissance permettant de manifester la pleine conscience à chaque instant dans votre vie en se reposant sur des principes spirituel purement africian.
+cover: https://img.over-blog-kiwi.com/1/50/20/79/20150330/ob_5edc20_image.jpg
+tags: 'Spiritualité, Connaissance du soi'
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet nisl purus in. Nunc sed augue lacus viverra vitae congue eu. At augue eget arcu dictum varius. Et ligula ullamcorper malesuada proin. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Mauris in aliquam sem fringilla ut morbi tincidunt. In vitae turpis massa sed elementum tempus egestas. Neque gravida in fermentum et sollicitudin ac orci phasellus. Nibh praesent tristique magna sit amet purus gravida. Nibh sed pulvinar proin gravida hendrerit. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. A iaculis at erat pellentesque adipiscing commodo elit at. At varius vel pharetra vel turpis nunc eget lorem. Ultrices in iaculis nunc sed augue. Senectus et netus et malesuada fames ac turpis egestas.
 
-Neque vitae tempus quam pellentesque nec nam aliquam sem. Praesent tristique magna sit amet. Blandit massa enim nec dui nunc. Ultrices vitae auctor eu augue ut lectus arcu bibendum at. Mauris augue neque gravida in fermentum et sollicitudin ac. Arcu risus quis varius quam quisque id diam vel. Tortor aliquam nulla facilisi cras fermentum. Sit amet tellus cras adipiscing. Convallis aenean et tortor at risus viverra adipiscing. Porttitor eget dolor morbi non. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Et leo duis ut diam quam. Accumsan sit amet nulla facilisi. Leo urna molestie at elementum eu facilisis sed odio morbi. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Eros in cursus turpis massa tincidunt dui ut ornare. Vel fringilla est ullamcorper eget nulla facilisi. Nec nam aliquam sem et tortor. Eu consequat ac felis donec.
+Dans la tradition africaine, l'etre humain doit etre formé selon certains principes de vie afin de raviver sa connaissance originelle.
 
-Quis enim lobortis scelerisque fermentum dui faucibus. Pulvinar sapien et ligula ullamcorper malesuada proin. Commodo nulla facilisi nullam vehicula ipsum. Facilisis gravida neque convallis a cras semper. Duis convallis convallis tellus id interdum velit laoreet id donec. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Justo donec enim diam vulputate ut pharetra. Elementum integer enim neque volutpat. Est velit egestas dui id ornare. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Justo nec ultrices dui sapien eget mi proin sed libero. Egestas erat imperdiet sed euismod nisi porta. Facilisis mauris sit amet massa vitae tortor condimentum lacinia. Cursus in hac habitasse platea dictumst quisque sagittis. Amet consectetur adipiscing elit pellentesque habitant morbi.
+Ceci implique la nécessité de mener une vie réglé constituant l'austérité. Car à travers cette démarche il est possible d'évoluer graduellemenr au niveau du savoir véritable.
 
-Morbi tempus iaculis urna id volutpat lacus. Sit amet venenatis urna cursus eget nunc scelerisque viverra. Amet risus nullam eget felis. Sit amet purus gravida quis blandit. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Ut lectus arcu bibendum at varius vel pharetra vel turpis. Scelerisque viverra mauris in aliquam sem fringilla ut. Fringilla urna porttitor rhoncus dolor purus. Id velit ut tortor pretium viverra suspendisse potenti nullam. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Donec enim diam vulputate ut. Mauris a diam maecenas sed enim ut sem.
+A travers le calendrier sacrée, l'etre humain s'entraine à pratiquer sa capacité à agir en conscience. C'est récupérer sa vie en sortant des conditionnements. Ce qui se fait en petit se fera en grand. Peu à peu les rites de la matrice perdent en puissance et en réalité.
 
-Fames ac turpis egestas integer eget aliquet nibh praesent. Magna fringilla urna porttitor rhoncus dolor. Mauris commodo quis imperdiet massa tincidunt nunc. Enim sed faucibus turpis in eu mi bibendum. Bibendum enim facilisis gravida neque convallis. Proin fermentum leo vel orci. Id velit ut tortor pretium viverra suspendisse potenti nullam ac. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Ac felis donec et odio. Mauris a diam maecenas sed enim ut sem viverra aliquet. Sollicitudin nibh sit amet commodo nulla facilisi.
+L'humain participe à une oeuvre collective dans laquelle il peut exprimer son individualisme, son talent.
+Il se confronte au réel.
+Son acte lui parle de lui-meme.
+Il bati son futur et celui de toutes les créatures.
+L'oeuvre est l'achèvement du but de sa quete.
+
+La vie nous met en situation pour provoquer des défis et voir si l'on est un doux reveur ou un etre voulant faire ce que l'on veut.
+
+
+## La maitrise de la pleine conscience
+
+Par la maitrise du mental et des sens, il est possible d'atteindre la conscience supreme. Cette maitrise s'aquière par des techniques qui ont été developper par nos ancetres et transmis aux travers des ages comme des savoirs précieux .
+
+L'une des techniques les plus populaire est _le yoga et la méditation_.
+Le mot *yoga* signifie *l'union ultime du soi individuel et le soi universel*.
+C'est le résultat de la neutralisation des sentiments de l'égo qui engendre désirs, attachements, gouts et dégouts.
+Cette pratique à pour but ultime de faire résidé le _soi dans sa propre vrai nature_ afin d'éviter une fausse indentifications aux sentiments de l'égaux.
+
+La _méditation_ consiste simplement à calmer le mental et à le libérer de l'agitation des émotions, des pensés, des sentiments de l'égo et des desirs afin d'atteindre un merveilleux état de plénitude et le sentiment de faire un avec l'univers.
+
+Le **_KIMUNTU_**, c'est la philosophie issue de la culture KONGO, qui signifie _Ce qui attrait à l'etre humain_.
+Cette philosophie ou du moins cette spiritualité est le fruit d'une éducation au sein de la société KONGO, dont le principe est d'accéder à une sagesse culturelle qui compose l'art de vivre KONGO.
+
+La tradition _KONGO_ enseigne que le monde dans lequel nous vivons est la traduction des éléments.
+
+- *Feu* (TIYA) lié à la pensée de l'homme
+- *Air* (MU-MPEPE) lié au sens, sentiment
+- *Eau* (MASA) est lié aux désirs , volonté.
+- *Terre* (NTO-NTO) lié aux actes, oeuvres.
+- *Ether* (NGU) , qui est le 5e élément, celui qui apporte la cohérence dans le monde visible.
+
+
+## Comprendre l'importance de la pleine conscience
+
+La frustation des désirs materiels, physiques engendrent la colère, qui dit colère ramène à perte d'énergie et lors d'une perte d'énergie conséquente en se sent vidé et nous sombrons dans ce qui peut etre une dépression psychique et physique.
+
+L'etre humain doit chercher un centre afin de dominer ses pensées instinctive car quand on est au centre, tout ce qui est à la peripherie on le découvre.
+
+
+### L'inconscience collectif
+
+_L'inconscient collectif_ c'est l'ensemble des désirs de l'humanité conditionné par la matrice. L'énergie humaine est utilisé
+comme un moteur pour les changements orientés par la Matrice. Lorsque l'homme cherche en lui-meme, il trouve cette dimension
+artificielle.
+
+### Le système de vie quotidien
+
+C'est la constitution de tout ce que l'on ne voit plus, de tout ce qui est normal, évident, confortable, facile.
+L'homme vit totalement déconnecté de la réalité, hypnotisén somnambule au milieu d'un monde en détresse.
+La matrice l'utilise et le fait _rever_.
+L'humanité actuelle vit un fantasme poigant envers les technologies qu'elle détruit tout les facteurs qui l'entoure (sociétés, l'environnement, les relations humaines).
+
+Pour se libérer de la matrice et vivre pleinemen la pleine conscience, il faut passer par les quatres étapes, les dépasser.
+
+- Le système de vie quotidien
+- L'inconscient collectif
+- Les mémoires
+- Les égrégores qui sont des formes d'inteligences supérieures.
