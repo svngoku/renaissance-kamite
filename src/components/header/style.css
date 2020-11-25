@@ -1,16 +1,20 @@
 .header {
-	height: 100px;;
+	height: 100px;
+	font-weight: 600;
+
 }
 
 .header h1 {
+	font-style: normal;
+    font-variant: normal;
 	float: left;
 	margin: 0;
 	padding: 0 15px;
+	font-weight: bold;
 	font-size: 40px;
-	line-height: 100px;
-	font-weight: 400;
-	font-family: 'Courgette', 'Helvetica Neue', arial, sans-serif;;
-	color: #FFC107;
+	line-height: 100px;	
+	font-weight: 700;
+	color: #ffffff;
 }
 
 .header nav {
@@ -27,7 +31,7 @@
 	text-align: center;
 	background: rgba(255,255,255,0);
 	text-decoration: none;
-	color: #333;
+	color :white;
 	will-change: background-color;
 	transition-property: color;
 	transition-duration: 300ms;
