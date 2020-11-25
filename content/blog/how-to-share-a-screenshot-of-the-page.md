@@ -1,5 +1,5 @@
 ---
-title: Spiritualité Kongo
+title: La pleine conscience  - Processus spirituel
 date: 2019-09-07T05:42:28.441Z
 subtitle: Cette introduction à pour but de transmettre des connaissance permettant de manifester la pleine conscience à chaque instant dans votre vie en se reposant sur des principes spirituel purement africian.
 cover: https://img.over-blog-kiwi.com/1/50/20/79/20150330/ob_5edc20_image.jpg
